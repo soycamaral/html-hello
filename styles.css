@@ -1,0 +1,19 @@
+header{background: white;
+    padding: 8px;
+    }
+    header h1 {margin: 0;}
+    body {background: rgb(236, 236, 236);
+    margin: 0;}
+    div.post{background: white;
+    margin-top: 10px;}
+    div.container{width: 600px; 
+    margin: auto;}
+    div.post .post-header div:first-child {display: inline-block;
+    width:80%;} 
+    div.post .post-header div:last-child {display:inline-block;
+    width: 20%;
+    text-align: right;
+    padding:10px;
+    color:gray;}
+    div {box-sizing:border-box;}
+    div.post img {width: 100%}
