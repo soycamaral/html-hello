@@ -1,0 +1,34 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.encabezado {
+    display: flex;
+    align-items: center;  
+    padding: 10px;    
+}
+
+
+
+.info {
+    flex-grow: 1;
+}
+
+.info strong {
+    display: block;
+    
+}
+
+.ubicacion {
+    font-size: 12px;
+}
+
+
+div.post img {
+    width: 100%;
+}
+
+div.container{
+    width: 600px;
+    margin: auto;
+}
+p{text-align: justify;}
